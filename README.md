@@ -8,6 +8,3 @@ Before training CNN model, we crop out coins from original dataset and split the
 After training, we used trained model to classify coins on few sample images that we with made mobile phone. Algorithm works in two stages. In first stage we find coins in input image using OpenCV, then in second stage we use our trained model to classify coins. 
 
 
-
-
-[python_scripts.zip](https://github.com/MartinP96/euro-coin-classification/files/6143548/python_scripts.zip)
