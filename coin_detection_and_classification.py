@@ -1,3 +1,10 @@
+'''
+- script name: coin_detection_and_classification.py
+- author: Martin P.
+- description: This script is used for detection and classification of euro coins
+in input image.
+'''
+
 import cv2
 from math import sqrt
 from math import floor
