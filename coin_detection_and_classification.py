@@ -106,7 +106,7 @@ circles = np.uint16(np.around(circles))
 # ---------CLASSIFY COINS---------- #
 
 # Load model
-model = keras.models.load_model('model2')
+model = keras.models.load_model('model')
 
 # Dict of class labels
 class_labels = {
